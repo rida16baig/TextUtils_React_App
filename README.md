@@ -1,8 +1,14 @@
-# TextUtils - A react app
+# TextUtils - React base Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TextUtils is a Application that helps user falcilate them with useful features to modify their text as per their desire.
 
-## Run Command to see app on your server
+
+![TextUtils Pic](src/images/textUtils.JPG)
+
+
+<hr/>
+
+## Run TextUtils on your local server
 
 In the project directory, you can run:
 
@@ -14,61 +20,33 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Test TextUtils App
+## Change Case 
 
-### `npm test`
+### `UpperCase` , `LowerCase` 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+User can change case of text either to uppercase or to lower case which will facilate them in many times whenever modifying their text. 
 
-## Command For Production Purposes
+## Sentence Case, Inverse Case, Alternate Case, Capitalize 
 
-### `npm run build`
+### Some additional features that make much ease for user
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+With help of all these features, a user can try multiple case transformations on its text, and can have of it's own choice.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Clear Text, Copy Text
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Clear and Copy text on a button click
 
-### `npm run eject`
+User can copy or clear all text mentioned, no matter how long it is. All this is just because of amaxing features of TextUtils.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Calculate Text Length & Preview Text
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Text Summary
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Text summary includes preview of the text, text length,and read time as per text length.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Toggle Mode Feature 
 
-## Learn More
+### Light and Dark Modes
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+User can switch to either light or dark mode according to his will.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
