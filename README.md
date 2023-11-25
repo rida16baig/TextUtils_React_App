@@ -54,13 +54,14 @@ Text summary includes preview of the text, text length,and read time as per text
 
 User can switch to either light or dark mode according to his will.
 
-### `Light Mode`
-
-![TextUtils Pic](src/images/light%20mode.JPG)
-
-<hr/>
-
 ### `Dark Mode`
 
 ![TextUtils Pic](src/images/textUtils.JPG)
+
+<hr/>
+
+
+### `Light Mode`
+
+![TextUtils Pic](src/images/light%20mode.JPG)
 
