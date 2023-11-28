@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.33d72bfa.css","mappings":"AAAA,EACE,QAAS,CACT,SACF,CACA,YACE,qBAAsB,CACtB,UACF,CACA,wBACE,gBAAkB","sources":["App.css"],"sourcesContent":["* {\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n::selection {\r\n  background-color: cyan;\r\n  color: black; \r\n}\r\n.accordion-button::after {\r\n  filter: invert(1);}"],"names":[],"sourceRoot":""}
