@@ -44,7 +44,7 @@ export default function About(props) {
                 color: props.mode === "light" ? "black" : "white",
               }}
             >
-              A user can easily use textUtils to customize text easily.
+             The <b>textUtils</b> app boasts user-friendly features, ensuring a straightforward and intuitive experience for customization. With a simple interface, users can effortlessly navigate and personalize text content, making it an easy-to-use tool. Its accessibility and simplicity make text customization a seamless process for all users.
             </div>
           </div>
         </div>
@@ -83,8 +83,7 @@ export default function About(props) {
             data-bs-parent="#accordionExample"
           >
             <div className="accordion-body">
-              Customize your text according to your desire e.g LowerCase,
-              UpperCase , Capitalize etc{" "}
+            The Customize Text feature offers a hassle-free experience, providing users with a straightforward and intuitive way to tailor text elements within the app. Its user-friendly interface ensures easy navigation and effortless customization, making the process of personalizing text content both accessible and efficient.
             </div>
           </div>
         </div>
@@ -117,8 +116,7 @@ export default function About(props) {
                 color: props.mode === "light" ? "black" : "white",
               }}
             >
-              TextUtils is a free platform to use which makes you work with much
-              ease.
+              The Free to Use attribute underscores the app's accessibility, allowing users to enjoy its functionalities without any cost. With an uncomplicated setup, the app provides a seamless experience, making it not only valuable but also freely available for all users to leverage without financial constraints.
             </div>
           </div>
         </div>
